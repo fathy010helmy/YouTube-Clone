@@ -1,23 +1,39 @@
-# YouTube Clone
+# 🎥 YouTube Clone
 
-This project is a **YouTube Clone** built using **React** and **Vite**. It mimics core YouTube functionalities like video listing, searching, and playback using the official **YouTube Data API**.
+A **YouTube Clone** built with **React** and **Vite**, replicating core YouTube functionalities such as video listing, searching, and playback using the official **YouTube Data API v3**.
 
-## 🚀 Tech Stack
+---
 
-- **React** (with functional components & hooks)
-- **Vite** (for fast development and HMR)
-- **CSS** (pure CSS for styling)
-- **YouTube Data API v3** (to fetch real YouTube videos & details)
+## 🚀 Live Demo
+[🔗 View Project](
+https://you-tube-clone-xi-navy.vercel.app/) 
+
+---
+
+## 🛠 Tech Stack
+- **React** (Functional Components & Hooks)
+- **Vite** (Fast development + HMR)
+- **CSS** (Pure CSS for styling)
+- **YouTube Data API v3** (Fetching real YouTube videos & details)
+
+---
 
 ## 📦 Features
+- 🔍 Search for videos in real-time
+- 📈 Display trending videos
+- 🎬 Embedded YouTube video player
+- 📱 Fully responsive layout
 
-- Video search functionality
-- Display of trending videos
-- Embedded YouTube video player
-- Responsive layout
+---
+
+## 📷 Screenshots
+<!-- ضع صور أو GIF للمشروع -->
+![App Screenshot](src/assets/Screenshot%202025-08-08%20030839.png)
+
+---
 
 ## 🧰 Getting Started
 
+### 1️⃣ Install dependencies
 ```bash
 npm install
-npm run dev
